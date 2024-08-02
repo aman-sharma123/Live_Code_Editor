@@ -27,13 +27,13 @@ A simple and interactive Live Code Editor built with HTML, CSS, and JavaScript. 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/live-code-editor.git
+   git clone https://github.com/aman-sharma123/Live_Code_Editor.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd live-code-editor
+   cd Live_Code_Editor
    ```
 
 3. Open the `index.html` file in your preferred web browser to start using the editor.
@@ -71,8 +71,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Acknowledgements
 
 - [FontAwesome](https://fontawesome.com) for providing the amazing icons.
-- Inspiration from various online live code editors.
-
----
-
-Feel free to customize this README to better fit your project's needs!
