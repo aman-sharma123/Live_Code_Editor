@@ -13,7 +13,7 @@ A simple and interactive Live Code Editor built with HTML, CSS, and JavaScript. 
 
 ## Screenshots
 
-![Live Code Editor Screenshot](images/screenshot.png)
+![Live Code Editor Screenshot](images/Screenshot.png)
 
 ## Getting Started
 
